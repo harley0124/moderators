@@ -88,9 +88,7 @@ This is just an example.
 
 This is just an example.
 
-- Discord user name: `Write your Discord user name`
-- UnUniFi address : `ununifi1xxxxxxxxxxxxxxxxxxxxxxxxx`
+- Discord user name: `Harley#2209
+- UnUniFi address : `ununifi1dq05qshfuk2hznv3v5w9acfw8veg23vk9sg8n4
 - MEE6 experience point at the start of this season: `0`
 - MEE6 experience point at the end of this season: `Not yet`
-
-
